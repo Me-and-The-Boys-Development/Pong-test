@@ -1,2 +1,2 @@
 # Pong-test
-we tryna make pong ok dont bully us
+made in unity, some practice for another game.
